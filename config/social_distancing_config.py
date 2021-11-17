@@ -7,7 +7,7 @@ MIN_CONF = 0.3
 NMS_THRESH = 0.3
 
 #boolean value to indicate if NIVIDIA CUDA GPU should be used
-USE_GPU = False
+USE_GPU = True
 
 #The minimum safe distance(in pixels) that two people can be safe from
 #each other

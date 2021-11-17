@@ -7,3 +7,6 @@ node_modules/
 .vscode
 __pycache__/
 yolo-coco/
+build/
+dist/
+build/
