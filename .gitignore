@@ -1,0 +1,9 @@
+env/
+dataset/
+node_modules/
+*.mp4
+*.avi
+*.jpg
+.vscode
+__pycache__/
+yolo-coco/
